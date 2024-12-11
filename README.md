@@ -12,6 +12,7 @@ A Python application that performs real-time object detection, segmentation, cla
 
 ## Requirements
 - Python 3.8+
+- [FFmpeg](https://ffmpeg.org/download.html) for video processing. Ensure FFmpeg is installed and accessible in your system's PATH.
 - CUDA-compatible GPU (recommended)
 - See requirements.txt for Python dependencies
 
