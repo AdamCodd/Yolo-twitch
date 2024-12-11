@@ -1,7 +1,7 @@
 # Yolo-twitch
 A Python application that performs real-time object detection, segmentation, classification, and pose estimation on Twitch streams using YOLO models. The application supports low-latency streaming with audio playback capabilities. 
 
-On practical use, my laptop with an Nvidia GeForce GTX 1650 and Intel i5 can manage a real-time stream at 360p/30FPS with sound with the nano model.
+On practical use, my laptop with an Nvidia GeForce GTX 1650 and Intel i5 can manage a real-time stream at 360p/30FPS with sound using the nano model.
 
 ![Twitch detection](https://i.imgur.com/Qwn4KvC.png)
 
